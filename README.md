@@ -1,4 +1,4 @@
-# Template - Dockerfiles
+# Template - Dockerfile
 
 Collection of useful dockerfiles.
 
